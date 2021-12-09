@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-deploy/static/js/main.29b273ab.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.29b273ab.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.b012efad.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.b012efad.js.map",
+    "static/js/2.0d0954be.chunk.js": "/react-deploy/static/js/2.0d0954be.chunk.js",
+    "static/js/2.0d0954be.chunk.js.map": "/react-deploy/static/js/2.0d0954be.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.59a6f99b794f3920ec1dd52f1ca2e936.js": "/react-deploy/precache-manifest.59a6f99b794f3920ec1dd52f1ca2e936.js",
+    "service-worker.js": "/react-deploy/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b012efad.js",
+    "static/js/2.0d0954be.chunk.js",
+    "static/js/main.29b273ab.chunk.js"
+  ]
+}
